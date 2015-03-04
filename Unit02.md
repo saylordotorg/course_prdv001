@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV001: Computer Skills And Literacy"
+course_description: "This course explores a variety of topics in computing, including the components of a computer, common computer terminology, an introduction to the Internet, computer security and privacy, computer troubleshooting techniques, and steps to maintain the life of your computer."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Internet and the World Wide Web** <span id="2"></span> 
 *Now that we have an understanding of the basics of a computer, we focus
 on the Internet and the World Wide Web.  The following four subunits
