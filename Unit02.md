@@ -54,7 +54,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: VIKO—Your Guide to Information Literacy’s “What is the
     Internet?”**
     Link: VIKO—Your Guide to Information Literacy’s [“What is the
-    Internet?”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PRDV001_Unit-2.1_What-is-the-Internet_.pdf) (PDF)  
+    Internet?”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/PRDV001_Unit-2.1_What-is-the-Internet_.pdf) (PDF)  
         
      Instructions: Please read the entirety of this page.  This section
     should take about 20 minutes to complete.  Please make sure to take
@@ -83,7 +83,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Kabissa Wiki’s “Communicating with People through the
     Internet”**
     Link: Kabissa Wiki’s [“Communicating with People through the
-    Internet”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PRDV001_Unit-2.3_Communicating-With-People-Through-The-Internet.pdf) (PDF)  
+    Internet”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/PRDV001_Unit-2.3_Communicating-With-People-Through-The-Internet.pdf) (PDF)  
         
      Instructions: Please read the above article and take notes, which
     focuses on one of the most common methods of communicating online
@@ -100,7 +100,7 @@ Upon successful completion of this unit, the student will be able to:
 **2.4 Protecting Privacy** <span id="2.4"></span> 
 -   **Reading: Karen Coyle’s “Protecting Privacy”**
     Link: Karen Coyle’s [“Protecting
-    Privacy”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PRDV001_Unit-2.4_Protecting-Privacy.pdf) (PDF)  
+    Privacy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/PRDV001_Unit-2.4_Protecting-Privacy.pdf) (PDF)  
         
      Instructions: Please read the entirety of this page.  This reading
     should take approximately 20 minutes to complete.  
